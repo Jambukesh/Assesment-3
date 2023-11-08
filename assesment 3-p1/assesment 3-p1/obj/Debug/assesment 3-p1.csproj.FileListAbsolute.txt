@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\day 2 Assesment\ass2\assesment 3-p1\assesment 3-p1\bin\Debug\assesment 3-p1.exe.config
+D:\mphasis\problem statement\day 2 Assesment\ass2\assesment 3-p1\assesment 3-p1\bin\Debug\assesment 3-p1.exe
+D:\mphasis\problem statement\day 2 Assesment\ass2\assesment 3-p1\assesment 3-p1\bin\Debug\assesment 3-p1.pdb
+D:\mphasis\problem statement\day 2 Assesment\ass2\assesment 3-p1\assesment 3-p1\obj\Debug\assesment 3-p1.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\day 2 Assesment\ass2\assesment 3-p1\assesment 3-p1\obj\Debug\assesment 3-p1.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\day 2 Assesment\ass2\assesment 3-p1\assesment 3-p1\obj\Debug\assesment 3-p1.exe
+D:\mphasis\problem statement\day 2 Assesment\ass2\assesment 3-p1\assesment 3-p1\obj\Debug\assesment 3-p1.pdb
